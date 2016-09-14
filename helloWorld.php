@@ -41,7 +41,8 @@
 <br>
 
 <?php
-
+	
+	// http://php.net/manual/en/function.date.php
 	echo date("D, d M Y H:i:s");
 
 ?>
